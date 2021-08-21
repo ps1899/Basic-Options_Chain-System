@@ -1,2 +1,2 @@
-# Basic-Options_Chain-System-
+# Basic-Options_Chain-System
 Finance
